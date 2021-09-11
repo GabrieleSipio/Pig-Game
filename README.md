@@ -5,3 +5,6 @@ Un semplice progetto per testate la DOM manipulation in Javascript. Il gioco con
 1. Il dado non restituisce **1** che ha l'effetto di azzerare il punteggio corrente.
 2. L'utente non decide di salvare il proprio punteggio clickando sul tasto **hold**.
 In entrambi i casi l'utente corrente cederà il turno all'altro.
+
+## Flowchart
+![flowchart](pig-game-flowchart.png)
